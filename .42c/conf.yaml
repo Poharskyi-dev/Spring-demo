@@ -1,0 +1,3 @@
+apis:
+  src/main/resources/api.yml:
+    alias: "opencourse-cg-school-crm"
